@@ -1,0 +1,115 @@
+
+{
+    "Pediatrics": [
+      {
+        "name": "Dr. Mufique Gajdhar",
+        "specialty": "Specialist Pediatric Surgeon ",
+        "time": "09:00 to 17:00",
+        "floor": "2nd Floor",
+        "languages": "English",
+        "image": "https://www.imh.ae/wp-content/uploads/2023/05/Artboard-56.jpg"
+      },
+      {
+        "name": "Dr. Renu Kumar Tadi",
+        "specialty": "Specialist Pediatrics",
+        "time": "09:00 to 17:00",
+        "floor": "2nd Floor",
+        "languages": "English",
+        "image": "https://www.imh.ae/wp-content/uploads/2024/08/Dr.-Renu-Kumar_Photo_-1.jpg"
+      }
+     
+    ],
+    "Dermatology": [
+      {
+        "name": "Dr. Manoj Kumar",
+        "specialty": "Specialist Plastic Surgeon ",
+        "time": "10:00 to 18:00",
+        "floor": "3rd Floor",
+        "languages": "English, Arabic",
+        "image": "https://www.imh.ae/wp-content/uploads/2023/05/Artboard-53.jpg"
+      },
+      {
+        "name": "Dr. Nazia Saad",
+        "specialty": "GP Aesthetics",
+        "time": "08:00 to 16:00",
+        "floor": "3rd Floor",
+        "languages": "English, Hindi",
+        "image": "https://www.imh.ae/wp-content/uploads/2025/01/Dr.-Nazia-profile-photo.jpg"
+      }
+    ],
+    "BariatricSurgery": [
+      {
+        "name": "Dr. Rohit Kumar",
+        "specialty": "Medical Director and Specialist General Surgeon ",
+        "time": "08:00 to 20:00",
+        "floor": "1st Floor",
+        "languages": "English, Hindi",
+         "image": "https://www.imh.ae/wp-content/uploads/2023/04/Dr-Rohit-1.png"
+      },
+      {
+        "name": "Dr. Anwar Kamel Oraby",
+        "specialty": "Consultant General Surgeon ",
+        "time": "08:00 to 20:00",
+        "floor": "1st Floor",
+        "languages": "English, Hindi",
+         "image": "https://www.imh.ae/wp-content/uploads/2023/04/Artboard-21.jpg"
+      }
+    ],
+    "Cardiology": [
+      {
+        "name": "Dr. Rahul Chaudhary",
+        "specialty": "HOD Cardiology, Consultant Cardiology, Specialist Interventional",
+        "time": "08:00 to 20:00",
+        "floor": "1st Floor",
+        "languages": "English, Hindi",
+         "image": "https://www.imh.ae/wp-content/uploads/2023/12/Dr-Rahul.png"
+      }
+    ],
+    "Dental": [
+      {
+        "name": "Dr. Thomas Varghese",
+        "specialty": "Specialist Endodontics & General Dentist ",
+        "time": "08:00 to 20:00",
+        "floor": "1st Floor",
+        "languages": "English, Hindi",
+         "image": "https://www.imh.ae/wp-content/uploads/2023/04/Artboard-10-2.jpg"
+      }
+    ],
+    "ENT": [
+      {
+        "name": "Dr. Unnikrishnan Thamarassery",
+        "specialty": "Specialist Otolaryngologist (ENT)",
+        "time": "08:00 to 20:00",
+        "floor": "1st Floor",
+        "languages": "English, Hindi",
+         "image": "https://www.imh.ae/wp-content/uploads/2023/04/Dr-Unni.png"
+      },
+      {
+        "name": "Dr. Suparna Roy",
+        "specialty": "Specialist Otolaryngology",
+        "time": "08:00 to 20:00",
+        "floor": "1st Floor",
+        "languages": "English, Hindi",
+         "image": "https://www.imh.ae/wp-content/uploads/2024/04/Dr-suparna-1.png"
+      }
+    ],
+    "Endocrinology": [
+      {
+        "name": "Dr. Nagwa Khalil Akasha",
+        "specialty": "Specialist Internal Medicine and Endocrinologist ",
+        "time": "08:00 to 20:00",
+        "floor": "1st Floor",
+        "languages": "English, Hindi",
+         "image": "https://www.imh.ae/wp-content/uploads/2023/12/Dr.-Nagwa-endocrinologist-in-dubai.jpg"
+      },
+      {
+        "name": "Dr. Prakash S. Pania",
+        "specialty": "Consultant Endocrinologist",
+        "time": "08:00 to 20:00",
+        "floor": "1st Floor",
+        "languages": "English, Hindi",
+         "image": "https://www.imh.ae/wp-content/uploads/2024/02/Dr-Prakash-1.png"
+      }
+    ]
+  }
+ 

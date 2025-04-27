@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Visas",
+      "image": "/images/USCIS_H2b_visa_1745458760423_1745458760614.jpg",
+      "description": "AMH Tourism offers seamless UAE visa services, ensuring hassle-free travel and efficient application processing. Additionally, through its partnership with VFS Global, AMH provides Medical at Your Doorstep services, making medical tests and procedures convenient and accessible for travellers and residents alike"
+    },
+    {
+      "id": 2,
+      "name": "B2B Booking Engine",
+      "image": "/images/Key-features-of-B2B-travel-solutions.webp",
+      "description": "AMH Tourism's B2B Booking Engine is designed for travel businesses, offering a centralized platform for seamless bookings of flights, hotels, and transfers. Travel agencies & tour operators can access real-time availability, competitive pricing, and instant confirmations, ensuring efficient trip management."
+    },
+    {
+      "id": 3,
+      "name": "Corporate booking Tool (CBT)",
+      "image":  "/images/Best-ways-to-manage-the-booking-process.jpg",
+      "description": "A Corporate Booking Tool (CBT) is an online software platform designed for businesses to facilitate and manage their employee's travel bookings. It simplifies the entire travel booking process, from searching for options to managing itineraries and approvals"
+    },
+    {
+      "id": 4,
+      "name": "Suppliers",
+      "image": "/images/supplier_lifecycle_mgmt.png",
+      "description": "Are you a supplier eager to collaborate with AMH? We are constantly looking for dependable, high-quality vendors to support our procurement operations. Joining forces with AMH opens doors to exciting business opportunities, lasting partnerships, and a strong professional network."
+    }
+  ]
+  

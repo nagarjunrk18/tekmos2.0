@@ -1,0 +1,17 @@
+[
+    { "name": "Aafiya", "logo": "/insurance/aafiya.jpg" },
+    { "name": "ADNIC", "logo": "/insurance/adnic.png" },
+    { "name": "Almadallah", "logo": "/insurance/almadallah.png" },
+    { "name": "AXA", "logo": "/insurance/axa.png" },
+    { "name": "Daman", "logo": "/insurance/daman.png" },
+    { "name": "F-Care", "logo": "/insurance/fcare.png" },
+    { "name": "MedNet", "logo": "/insurance/mednet.png" },
+    { "name": "MetLife", "logo": "/insurance/metlife.png" },
+    { "name": "MSH", "logo": "/insurance/msh.png" },
+    { "name": "NAS", "logo": "/insurance/nas.png" },
+    { "name": "Neuron", "logo": "/insurance/neuron.png" },
+    { "name": "NextCare", "logo": "/insurance/nextcare.png" },
+    { "name": "NGI", "logo": "/insurance/ngi.png" },
+    { "name": "SAICO", "logo": "/insurance/saico.png" }
+  ]
+  

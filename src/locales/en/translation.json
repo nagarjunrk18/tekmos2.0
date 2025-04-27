@@ -1,0 +1,14 @@
+{
+    "servicesTitle": "Our Services",
+    "partnersTitle": "Our Services Partners",
+    "bookNow": "BOOK NOW",
+     "arabic": "ARABIC",
+  "english": "ENGLISH",
+    "services": {
+      "1": "Visas",
+      "2": "B2B Booking Engine",
+      "3": "Corporate booking Tool (CBT)",
+      "4": "Suppliers"
+    }
+  }
+  

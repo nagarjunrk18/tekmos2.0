@@ -1,0 +1,158 @@
+/* Container */
+.doctors-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(135deg, #d5e6b7, #6cb2d1);
+    min-height: 100vh;
+    padding: 20px;
+  }
+  
+  /* Back Button */
+  .back-button {
+    align-self: flex-start;
+    font-size: 24px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+  }
+  
+  /* Title */
+  h1 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  /* Doctor Card */
+  .doctor-card {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background: #e8eae4;
+    padding: 15px;
+    border-radius: 15px;
+    width: 90%;
+    max-width: 600px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 15px;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .doctor-card:hover {
+    transform: scale(1.03);
+  }
+  
+  /* Doctor Image */
+  .doctor-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 15px;
+  }
+  
+  /* Doctor Details */
+  .doctor-details {
+    flex: 1;
+  }
+  
+  .doctor-details h2 {
+    font-size: 18px;
+    margin: 0;
+  }
+  
+  .doctor-details p {
+    font-size: 14px;
+    margin: 3px 0;
+  }
+
+  .sticky-header img {
+    width: 245px; /* Adjust logo size */
+    height: auto;
+  }
+
+  .sticky-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: white;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 0;
+  }
+
+  .back-button {
+    width: 30px;
+    height: 30px;
+    background: #0098e0 !important;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-content: center !important;
+    align-items: center !important;
+    align-self: center !important;
+    position: absolute;
+    left: 15px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    h1 {
+      font-size: 24px;
+    }
+  
+    .doctor-card {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      padding: 10px;
+    }
+  
+    .doctor-image {
+      width: 100px;
+      height: 100px;
+      margin-bottom: 10px;
+    }
+  
+    .doctor-details h2 {
+      font-size: 16px;
+    }
+  
+    .doctor-details p {
+      font-size: 13px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    h1 {
+      font-size: 22px;
+    }
+  
+    .doctor-card {
+      width: 95%;
+    }
+  
+    .doctor-image {
+      width: 90px;
+      height: 90px;
+    }
+  
+    .doctor-details h2 {
+      font-size: 14px;
+    }
+  
+    .doctor-details p {
+      font-size: 12px;
+    }
+  }
+  

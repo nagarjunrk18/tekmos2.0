@@ -1,0 +1,27 @@
+{
+    "Radiology": [
+      {
+        "name": "X-Ray",
+        "floor": "Mezzanine Floor",
+        "image": "/radiology-lab/xray.jpg"
+      },
+      {
+        "name": "Ultrasound",
+        "floor": "Mezzanine Floor",
+        "image": "/radiology-lab/ultrasound.jpg"
+      }
+    ],
+    "Laboratory": [
+      {
+        "name": "Sample Collection",
+        "floor": "Mezzanine Floor",
+        "image": "/radiology-lab/sample-collection.jpg"
+      },
+      {
+        "name": "Phlebotomy",
+        "floor": "Mezzanine Floor",
+        "image": "/radiology-lab/phlebotomy.jpg"
+      }
+    ]
+  }
+  
