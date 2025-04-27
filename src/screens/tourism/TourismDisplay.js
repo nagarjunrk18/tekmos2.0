@@ -53,7 +53,7 @@ const TourismDisplay = () => {
       src="/videos/TV 6 _ Horizontal2.mov"
       autoPlay
       loop
-      muted
+      
       playsInline
       className="plane-video"
       style={{ width: "100%", borderRadius: "10px", marginBottom: "20px" }}
