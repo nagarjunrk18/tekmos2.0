@@ -9,82 +9,148 @@
   box-sizing: border-box;
 }
 
-
 .screen-wrapper {
   width: 100%;
-  max-width: 700px; 
-  
- 
+  max-width: 700px;
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
   align-items: center;
   padding: 2vh 2vw;
   border-radius: 20px;
-  overflow: hidden;
- 
+}
+
+.amh-logo {
+  width: 150px;
+  margin-bottom: 20px;
 }
 
 .plane-image {
   width: 100%;
   height: auto;
-  margin-bottom: 2vh;
+  margin-bottom: 20px;
   border-radius: 10px;
 }
 
 .heading {
-  font-size: 2vw;
+  font-size: 1.8vw;
   color: #004d4d;
   font-weight: 600;
-  margin-bottom: 2vh;
+  margin: 20px 0;
   text-align: center;
 }
 
 .find-more-button {
   border-radius: 30px;
   padding: 12px 40px;
-  font-size: 1.5vw;
+  font-size: 1.2vw;
   background-color: #004d4d !important;
   color: #ffffff;
   border: none;
-  margin-bottom: 3vh;
+  margin: 20px 0 30px;
 }
 
-.logo-row {
-  margin-top: auto;
+.group-title h5 {
+  font-size: 1.5vw;
+  color: #004d4d;
+  margin-bottom: 20px;
+  text-align: center;
 }
 
-.logo-image {
-  
-  width: 100%;
+.partners-logos {
+  margin-bottom: 30px;
+  gap: 10px;
 }
 
+.partner-logo {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.footer-text {
+  font-size: 1.2vw;
+  color: #004d4d;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.barca-logo {
+  width: 100px;
+}
 
 @media (max-width: 768px) {
-  .screen-wrapper {
-    max-width: 90%;
-    aspect-ratio: 9 / 16; 
-  }
-
   .heading {
     font-size: 5vw;
   }
-
   .find-more-button {
     font-size: 4vw;
-    padding: 10px 30px;
+  }
+  .group-title h5, .footer-text {
+    font-size: 4vw;
   }
 }
+
+@media (min-width: 1600px) {
+  .find-more-button {
+    font-size: 2vw;
+    padding: 20px 60px;
+    border-radius: 20px; 
+  }
+}
+
 
 @media (orientation: portrait) {
   .screen-wrapper {
     aspect-ratio: 9 / 16; 
   }
 }
-
-@media (min-width: 1600px) {
+@media (min-width: 2560px) {
   .find-more-button {
-    font-size: 8vw;
-    padding: 20px 60px;
+    font-size: 1.5vw;
+    padding: 25px 70px;
+    border-radius: 24px;
+  }
+}
+
+
+
+/* For 32" Standbyme screen (portrait, 1080x1920) */
+@media (min-width: 1000px) and (max-width: 1200px) and (min-height: 1800px) {
+  .screen-wrapper {
+    max-width: 90%;
+    aspect-ratio: 9 / 16;
+    padding: 5vh 3vw;
+  }
+
+  .amh-logo {
+    width: 200px;
+    margin-bottom: 30px;
+  }
+
+  .plane-image {
+    margin-bottom: 30px;
+  }
+
+  .heading {
+    font-size: 2.5vw;
+    margin-bottom: 30px;
+  }
+
+  .find-more-button {
+    font-size: 2vw;
+    padding: 14px 40px;
+    margin-bottom: 40px;
+  }
+
+  .group-title h5 {
+    font-size: 2vw;
+    margin-bottom: 20px;
+  }
+
+  .footer-text {
+    font-size: 2vw;
+  }
+
+  .barca-logo {
+    width: 60px;
   }
 }

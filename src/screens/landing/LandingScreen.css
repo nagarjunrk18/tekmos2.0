@@ -3,7 +3,8 @@
 .start-page {
   height: 100vh;
   width: 100%;
-  background: linear-gradient(to bottom, #ffffff, #4dd0e1);
+ /*  background: linear-gradient(to bottom, #00515D, #00ACC4); */
+ background: linear-gradient(to bottom, #ffffff, #4dd0e1);
   display: flex;
   justify-content: center;
   align-items: center;

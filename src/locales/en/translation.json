@@ -4,11 +4,18 @@
     "bookNow": "BOOK NOW",
      "arabic": "ARABIC",
   "english": "ENGLISH",
-    "services": {
-      "1": "Visas",
-      "2": "B2B Booking Engine",
-      "3": "Corporate booking Tool (CBT)",
-      "4": "Suppliers"
-    }
+  "services": {
+    "1": "DMC Services",
+    "2": "UAE Visa Services",
+    "3": "UAE Attractions",
+    "4": "Hotel",
+    "5": "Meet & Greet Services",
+    "6": "B2B Online Portal",
+    "7": "Corporate Self-Booking Tool",
+    "8": "JV Partners",
+    "9": "Airline GSA",
+    "10": "AMH Sports",
+    "11": "Hotel Tour Desk Concierge System"
+  }
   }
   
