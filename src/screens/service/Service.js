@@ -231,10 +231,7 @@ const groupcompany = [
   kpm,
   aspin,
   ahm,
-  mira,
-  louvreabudabi,
-  musiumoffuture,
-  palmjumera
+  
  
 ];
 
